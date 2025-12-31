@@ -23,10 +23,10 @@
 11. [WorldGuard](https://github.com/addpromax/WorldGuard) 为Worldguard添加了白名单系统 以及合并兼容了WorldguardExtra 国际化支持
 12. [LifeStealZ](https://github.com/addpromax/LifeStealZ) 为LifeStealZ添加了可充能 可绑定的自动重生信标 并且兼容了SlimeWorld世界
 13. [Prism](https://github.com/addpromax/prism-pro) 为Prism添加了回滚确认 minimessage支持以及领地支持（必须在有权限的领地内检查pr i）
-14. [AdvancedDungeonArena](https://github.com/addpromax/AdvancedDungeonArena-pro) 新一代地牢系统 增加了多世界支持 组队插件支持
 ### 魔改系列插件（闭源插件）
 1. [LibreLogin](https://github.com/addpromax/LibreLogin) LibreLogin的继续维护版本 为插件增加了Dialogs支持
 2. [Codex](https://github.com/addpromax/Codex-pro) 图鉴系统 需使用customcrops customfishing魔改版 兼容Aiyatsbus Ecoenchant 原版附魔图鉴 支持Thebrewy酿酒插件图鉴 支持原版 wg区域图鉴等
+3. [AdvancedDungeonArena](https://github.com/addpromax/AdvancedDungeonArena-pro) 新一代地牢系统 增加了多世界支持 组队插件支持 正在开发中
 
 ## 个人代码库评价（不显示就是挂了）
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=addpromax)](https://github.com/anuraghazra/github-readme-stats)
