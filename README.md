@@ -7,9 +7,8 @@
 2. [IslandNpc](https://github.com/addpromax/IslandNpc) 空岛NPC 用以对玩家空岛创建指定NPC 并支持slimeworld世界
 3. [deluxesellwands-excellentshop](https://github.com/addpromax/deluxesellwands-excellentshop) 用以给Deluxesellwands提供excellentshop价格提供商支持
 ### 原创系列插件（闭源插件）
-1. [Codex](https://github.com/addpromax/Codex-pro) 图鉴系统 需使用customcrops customfishing魔改版 兼容Aiyatsbus Ecoenchant 原版附魔图鉴 支持Thebrewy酿酒插件图鉴 支持原版 wg区域图鉴等、
-2. [PlayerContract](https://github.com/addpromax/PlayerContract) 玩家合同制交易插件(闲鱼)  正在开发中
-3. [TpBook](https://github.com/addpromax/TpBook) 使用Dialogs的玩家传送 地标传送 坐标传送多合一传送插件
+1. [PlayerContract](https://github.com/addpromax/PlayerContract) 玩家合同制交易插件(闲鱼)  正在开发中
+2. [TpBook](https://github.com/addpromax/TpBook) 使用Dialogs的玩家传送 地标传送 坐标传送多合一传送插件
 ### 魔改系列插件（公开插件）
 1. [FancyPlugins](https://github.com/addpromax/FancyPlugins) 通过移除检查更新代码和超前修复Bug来使Fancy系列插件更加好使
 2. [Sweetmail](https://github.com/addpromax/SweetMail) 通过FancyDialogs插件为Sweetmail提供dialogs支持，需要使用魔改FancyDialogs版本
@@ -27,6 +26,7 @@
 14. [AdvancedDungeonArena](https://github.com/addpromax/AdvancedDungeonArena-pro) 新一代地牢系统 增加了多世界支持 组队插件支持
 ### 魔改系列插件（闭源插件）
 1. [LibreLogin](https://github.com/addpromax/LibreLogin) LibreLogin的继续维护版本 为插件增加了Dialogs支持
+2. [Codex](https://github.com/addpromax/Codex-pro) 图鉴系统 需使用customcrops customfishing魔改版 兼容Aiyatsbus Ecoenchant 原版附魔图鉴 支持Thebrewy酿酒插件图鉴 支持原版 wg区域图鉴等
 
 ## 个人代码库评价（不显示就是挂了）
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=addpromax)](https://github.com/anuraghazra/github-readme-stats)
