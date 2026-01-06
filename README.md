@@ -23,6 +23,7 @@
 11. [WorldGuard](https://github.com/addpromax/WorldGuard) 为Worldguard添加了白名单系统 以及合并兼容了WorldguardExtra 国际化支持
 12. [LifeStealZ](https://github.com/addpromax/LifeStealZ) 为LifeStealZ添加了可充能 可绑定的自动重生信标 并且兼容了SlimeWorld世界
 13. [Prism](https://github.com/addpromax/prism-pro) 为Prism添加了回滚确认 minimessage支持以及领地支持（必须在有权限的领地内检查pr i）
+14. [CtOnlineReward](https://github.com/addpromax/CtOnlineReward) CtonlineReard的继续维护版本 增加了minimessage 优化了表结构等
 ### 魔改系列插件（闭源插件）
 1. [LibreLogin](https://github.com/addpromax/LibreLogin) LibreLogin的继续维护版本 为插件增加了Dialogs支持
 2. [Codex](https://github.com/addpromax/Codex-pro) 图鉴系统 需使用customcrops customfishing魔改版 兼容Aiyatsbus Ecoenchant 原版附魔图鉴 支持Thebrewy酿酒插件图鉴 支持原版 wg区域图鉴等
