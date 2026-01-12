@@ -1,6 +1,8 @@
 ## 你好，欢迎来到我的Github仓库
 我是 MagicBili (Addpromax)，一个来自中国的我的世界服主。
 
+我的组织是[ShiratamacoMC](https://github.com/shiratamacomc)，我的插件都在此组织上。
+
 ## 欢迎查看我的插件
 ### 原创系列插件（公开插件）
 1. [BlockHolograms](https://github.com/addpromax/BlockHolograms) 方块全息 使用FancyHolograms提供支持 可对全息方块绑定左右shift左右键 关闭全息的方块不会触发
