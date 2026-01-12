@@ -8,9 +8,9 @@
 1. [BlockHolograms](https://github.com/addpromax/BlockHolograms) 方块全息 使用FancyHolograms提供支持 可对全息方块绑定左右shift左右键 关闭全息的方块不会触发
 2. [IslandNpc](https://github.com/addpromax/IslandNpc) 空岛NPC 用以对玩家空岛创建指定NPC 并支持slimeworld世界
 3. [deluxesellwands-excellentshop](https://github.com/addpromax/deluxesellwands-excellentshop) 用以给Deluxesellwands提供excellentshop价格提供商支持
+4. [TpBook](https://github.com/addpromax/TpBook) 使用Dialogs的玩家传送 地标传送 坐标传送多合一传送插件
 ### 原创系列插件（闭源插件）
 1. [PlayerContract](https://github.com/addpromax/PlayerContract) 玩家合同制交易插件(闲鱼)  正在开发中
-2. [TpBook](https://github.com/addpromax/TpBook) 使用Dialogs的玩家传送 地标传送 坐标传送多合一传送插件
 ### 魔改系列插件（公开插件）
 1. [FancyPlugins](https://github.com/addpromax/FancyPlugins) 通过移除检查更新代码和超前修复Bug来使Fancy系列插件更加好使
 2. [Sweetmail](https://github.com/addpromax/SweetMail) 通过FancyDialogs插件为Sweetmail提供dialogs支持，需要使用魔改FancyDialogs版本
